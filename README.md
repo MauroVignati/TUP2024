@@ -53,6 +53,8 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
 ```
 > 11. Investigar ¿Qué es el pip y porque lo actualizamos?
 
+### ¿Qué es el pip?
+
 Pip es el gestor de paquetes oficial de Python. Permite instalar, actualizar y desinstalar paquetes y sus dependencias desde el Índice de Paquetes de Python (PyPI) y otros índices. Estos paquetes pueden incluir bibliotecas, herramientas y marcos que extienden la funcionalidad de Python y facilitan el desarrollo de software.
 
 ### Lo actualizamos por:</sub>
